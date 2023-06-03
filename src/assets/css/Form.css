@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat');
+
+.formulario {
+    .contacto {
+        bottom: 15.97%;
+
+        font-family: 'Caveat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 80px;
+        line-height: 38px;
+
+        align-items: center;
+        text-align: center;
+    }
+
+    .form-body {
+        margin-left: 25% !important;
+    }
+
+    .btn {
+        margin-left: 47%;
+        color: white;
+        background: #D8AD3D;
+        border-radius: 50px;
+    }
+}

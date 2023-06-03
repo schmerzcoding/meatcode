@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat');
+
+.header-text {
+    .bg {
+        width: 1920px;
+        height: 805px;
+        top: -14px;
+        left: -96px;
+    }
+
+    .logo {
+        position: absolute;
+
+        width: 150.53px;
+        height: 90px;
+        top: 49.3px;
+        left: 135px;
+    }
+
+    .rrss {
+        position: absolute;
+
+        width: 246px;
+        height: 62px;
+        top: 42px;
+        left: 1134px;
+    }
+
+    .title {
+        position: absolute;
+        z-index: 99;
+
+        width: 500px;
+        height: 200px;
+
+        left: 9.09%;
+        right: 46.81%;
+        top: 11.78%;
+        bottom: 79.92%;
+
+        margin-top: 144.68px;
+
+        font-family: 'Caveat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 120px;
+        line-height: 100px;
+        align-items: center;
+
+        color: #3F454A;
+    }
+
+    .brush {
+        position: absolute;
+        z-index: 1;
+
+        width: 1312px;
+        height: 174px;
+        left: -260.85px;
+        top: 333.62px;
+
+        transform: rotate(2.4deg);
+    }
+}

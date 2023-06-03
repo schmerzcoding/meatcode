@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat');
+
+.content {
+
+    .articulos {
+        position: relative; 
+
+        left: 28.68%;
+        right: 28.68%;
+        top: 39px;
+        bottom: 65.52%;
+    
+        font-family: 'Caveat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 80px;
+        line-height: 38px;
+        display: flex;
+        align-items: center;
+        text-align: center ;
+    
+        color: #3F454A;
+    }
+}
+  
